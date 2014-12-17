@@ -1,2 +1,2 @@
-include allstate::wasuser
-include allstate::iim
+include profile::wasuser
+include profile::iim
